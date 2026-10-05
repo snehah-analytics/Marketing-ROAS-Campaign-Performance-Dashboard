@@ -106,24 +106,17 @@ The final interface includes:
 
 ### KPI Overview
 
-  -----------------------------------------------------------------------
-  **KPI**                             **Purpose**
-  ----------------------------------- -----------------------------------
-  💰 Total Ad Spend                   Monitor advertising investment
+The dashboard tracks six key marketing indicators:
 
-  📈 Attributed Revenue               Track revenue attributed to
-                                      marketing activity
+| **KPI** | **Purpose** |
+|---|---|
+| 💰 **Total Ad Spend** | Monitor advertising investment |
+| 📈 **Attributed Revenue** | Track revenue attributed to marketing activity |
+| 🎯 **ROAS** | Measure advertising return relative to spend |
+| 🛒 **Total Purchases** | Monitor purchase volume |
+| 🔄 **Conversion Rate** | Measure click-to-purchase conversion |
+| 💵 **Profit After Ads** | Evaluate profitability after advertising costs |
 
-  🎯 ROAS                             Measure advertising return relative
-                                      to spend
-
-  🛒 Total Purchases                  Monitor purchase volume
-
-  🔄 Conversion Rate                  Measure click-to-purchase
-                                      conversion
-
-  💵 Profit After Ads                 Evaluate profitability after
-                                      advertising costs
   -----------------------------------------------------------------------
 
 ### Visual Analytics
