@@ -219,12 +219,8 @@ Based on the dashboard analysis:
 Potential extensions for the project include:
 
 - 🔮 Campaign performance forecasting
-- 🤖 Predictive conversion and ROAS modeling
-- 📊 Customer-level marketing segmentation
-- 🔎 Multi-page campaign drill-through analysis
-- 📊 Advanced campaign attribution analysis
-- 📈 Automated data refresh and reporting pipelines
-- 🎯 Budget allocation and campaign optimization analysis
+- 🤖 Predictive ROAS and conversion modeling
+- 🎯 Budget allocation and campaign optimization
 
 ------------------------------------------------------------------------
 
