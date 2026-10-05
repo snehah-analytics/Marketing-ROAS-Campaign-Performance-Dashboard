@@ -231,7 +231,7 @@ Potential extensions for the project include:
 ## 📷 Dashboard Preview
 
 [Marketing ROAS & Campaign Performance
-Dashboard](https://github.com/snehah-analytics/Marketing-ROAS-Dashboard/blob/main/dashboard-preview.png)
+Dashboard](dashboard-preview.png)
 
 ------------------------------------------------------------------------
 
@@ -240,7 +240,7 @@ Dashboard](https://github.com/snehah-analytics/Marketing-ROAS-Dashboard/blob/mai
 The repository includes the Power BI project file:
 
 [Download the Power BI Project
-(.pbix)](https://github.com/snehah-analytics/Marketing-ROAS-Dashboard/blob/main/marketing_roas_dashboard.pbix)
+(.pbix)](ROAS_dashboard.pbix)
 
 Open the file using **Power BI Desktop** to explore the dashboard, DAX
 measures, data model, and interactive filters.
