@@ -226,7 +226,7 @@ Potential extensions for the project include:
 
 ## 📷 Dashboard Preview
 
-![Marketing ROAS & Campaign Performance Dashboard](/dashboard-preview.png)
+![Marketing ROAS & Campaign Performance Dashboard](dashboard-preview.png)
 
 ------------------------------------------------------------------------
 
